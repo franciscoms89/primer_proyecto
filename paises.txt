@@ -1,2 +1,4 @@
 francia
 italia
+españa
+uk
